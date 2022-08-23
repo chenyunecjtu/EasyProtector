@@ -42,3 +42,4 @@ captures/
 bugly
 # apk file
 /app/official
+library/.cxx
